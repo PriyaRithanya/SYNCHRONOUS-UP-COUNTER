@@ -51,7 +51,8 @@ Developed by:PRIYARITHANYA M RegisterNumber:25007623
 
 
 **TIMING DIAGRAM FOR IP COUNTER**
-<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/597a3b84-dc0b-4253-9447-3ddf5b611a15" />
+![WhatsApp Image 2025-12-11 at 20 52 31_5533e781](https://github.com/user-attachments/assets/52f6ae01-2e2a-4555-bc8a-00a21c6d3d4e)
+
 
 **TRUTH TABLE**
 ![de pic](https://github.com/user-attachments/assets/82549aa1-eee6-4f2c-bf19-89c0c19cca84)
